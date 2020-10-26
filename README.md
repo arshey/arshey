@@ -1,7 +1,7 @@
 ### Hi there 
 
 
-### Hello friend 👋, I'm [Vincent-Férié](https://www.linkedin.com/in/vincent-ferie-ekissi-ekissi/) !
+### Hello friend <img src="https://github.com/thomasbnt/thomasbnt/raw/me/assets/hi.gif">, I'm [Vincent-Férié](https://www.linkedin.com/in/vincent-ferie-ekissi-ekissi/) !
 
 I'm a **french developer** maintly but touches everything, servers, community management, events, social networks and moore. I lovin soo much this community. I am a fan of **Coding, Coffee Gaming and Manga**. ☕
 
