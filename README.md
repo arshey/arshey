@@ -46,4 +46,4 @@ Mon amour.
 
 #### 🍃 — Keep up to date on my adventures, follow me everywhere
 
-[![Twitter](ttps://img.shields.io/twitter/follow/20100_CurTis?label=Follow%20me&style=social)](https://twitter.com/20100_CurTis) 
+[![Twitter](https://img.shields.io/twitter/follow/20100_CurTis?label=Follow%20me&style=social)](https://twitter.com/20100_CurTis) 
