@@ -50,7 +50,7 @@ Mon amour.
 ![Github](https://img.shields.io/github/followers/arshey?style=social)
 
 
-<details>
+### - <details>
 <summary>📈 — My GitHub Stats</summary>
 <table>
   <tr>
