@@ -7,7 +7,6 @@ I'm a **developer** maintly but touches everything, servers, community managemen
 
 - Actually, I work on **[ImpactDigitalSchool <img src="http://impactdigitalschool.impactafric.com/site/img/logo.png" width="60px">](http://impactdigitalschool.impactafric.com/home)**.  Impact Digital School is a school, but not a school like the one already in place, IDS is a school of digital through digital. We train for digital through digital and those since the beginning of this year 2020.
 - I am also currently in charge of the Web and Digital trades within the Ministry of African Integration and Ivorians Abroad (M.I.A.E) in the government of Côte d'Ivoire.
-Mon amour.
 - My love for the code pushed me to want to transmit it to all new ones who are interested in the web business and also digital. So in face, I am a temporary teacher in a school called EDHEG.
 
 
