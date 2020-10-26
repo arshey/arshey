@@ -30,17 +30,17 @@ Mon amour.
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/php/php-original.svg" alt="php" height="25" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" height="25" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="25" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/symfony/symfony-original.svg" alt="Symfony" height="25" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/cakephp/cakephp-original.svg" alt="CakePHP" height="25" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/docker/docker-original.svg" alt="Docker" height="25" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/wordpress/wordpress-original.svg" alt="Wordpress" height="25" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/typescript/typescript-original.svg" alt="TypeScript" height="25" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="25" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="25" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/heroku/heroku-original.svg" alt="Heroku" height="25" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="30" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/symfony/symfony-original.svg" alt="Symfony" height="30" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/cakephp/cakephp-original.svg" alt="CakePHP" height="30" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/docker/docker-original.svg" alt="Docker" height="30" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/wordpress/wordpress-original.svg" alt="Wordpress" height="30" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="30" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/heroku/heroku-original.svg" alt="Heroku" height="30" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/git/git-original.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" alt="Github" height="25" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" alt="Github" height="30" />  
 </div>
 
 #### 🍃 — Keep up to date on my adventures, follow me everywhere
