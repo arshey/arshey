@@ -1,4 +1,4 @@
-### Hello 🙋🏾‍♂️
+### Hi 🙋🏾‍♂️
 
 
 ### Hello friend <img src="https://github.com/thomasbnt/thomasbnt/raw/me/assets/hi.gif" width="25px">, I'm [Vincent-Férié](https://www.linkedin.com/in/vincent-ferie-ekissi-ekissi/) !
