@@ -1,9 +1,9 @@
-### Hi there 
+### Hello 🙋🏾‍♂️
 
 
 ### Hello friend <img src="https://github.com/thomasbnt/thomasbnt/raw/me/assets/hi.gif" width="25px">, I'm [Vincent-Férié](https://www.linkedin.com/in/vincent-ferie-ekissi-ekissi/) !
 
-I'm a **french developer** maintly but touches everything, servers, community management, events, social networks and moore. I lovin soo much this community. I am a fan of **Coding, Coffee Gaming and Manga**. ☕
+I'm a **developer** maintly but touches everything, servers, community management, events, social networks and moore. I lovin soo much this community. I am a fan of **Coding, Coffee Gaming and Manga**. ☕
 
 - Actually, I work on **[ImpactDigitalSchool <img src="http://impactdigitalschool.impactafric.com/site/img/logo.png" width="60px">](http://impactdigitalschool.impactafric.com/home)**.  Impact Digital School is a school, but not a school like the one already in place, IDS is a school of digital through digital. We train for digital through digital and those since the beginning of this year 2020.
 - I am also currently in charge of the Web and Digital trades within the Ministry of African Integration and Ivorians Abroad (M.I.A.E) in the government of Côte d'Ivoire.
