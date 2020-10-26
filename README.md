@@ -30,7 +30,6 @@ Mon amour.
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/php/php-original.svg" alt="php" height="25" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" height="25" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" height="25" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="25" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/symfony/symfony-original.svg" alt="Symfony" height="25" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/cakephp/cakephp-original.svg" alt="CakePHP" height="25" />  
@@ -49,3 +48,19 @@ Mon amour.
 [![Twitter](https://img.shields.io/twitter/follow/20100_CurTis?label=Follow%20me&style=social)](https://twitter.com/20100_CurTis) 
 <span style="margin-right:10px"></span>
 ![Github](https://img.shields.io/github/followers/arshey?style=social)
+
+
+<details>
+<summary>📈 — My GitHub Stats</summary>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=arshey"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshey&layout=compact&hide_border=true"/>
+    </td>
+  </tr>
+</table>
+</details>
+
